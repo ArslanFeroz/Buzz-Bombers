@@ -1,0 +1,10 @@
+test6 73400
+test4 64600
+last 61000
+test9 60100
+test7 59100
+junaid 56700
+arslan 56400
+0 56200
+test5 55600
+test9 48600
